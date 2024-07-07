@@ -8,7 +8,7 @@ TypeScript documentation
 # Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-Basic types in Typescript
+# Basic types in Typescript
 Interfaces, Classes, and functions
 How to work with the DOM and Typescript
 Generic types
@@ -28,11 +28,11 @@ The Typescript compiler should not show any warning or error when compiling your
 # Configuration Files
 Please use these files for the following tasks
 
-package.json
+# package.json
 Click to show/hide file contents
-.eslintrc.js
+# .eslintrc.js
 Click to show/hide file contents
-tsconfig.json
+# tsconfig.json
 Click to show/hide file contents
-webpack.config.js
+# webpack.config.js
 Click to show/hide file contents
