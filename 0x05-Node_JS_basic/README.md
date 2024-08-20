@@ -36,6 +36,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 # Provided files
 # database.csv
+```
 firstname,lastname,age,field
 Johann,Kerbrou,30,CS
 Guillaume,Salou,30,SWE
@@ -47,7 +48,7 @@ Joseph,Crisou,34,SWE
 Paul,Schneider,60,SWE
 Tommy,Schoul,32,SWE
 Katie,Shirou,21,CS
-
+```
 # package.json
 Click to show/hide file contents
 # babel.config.js
